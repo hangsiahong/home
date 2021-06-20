@@ -1,9 +1,7 @@
 ---
-title: "One Nightmare"
+title: "The Ghost Blog"
 date: 2021-02-08
 ---
-
-1. The Ghost Blog
 
 If there’s one thing that Halloween reminds us of, it’s our own mortality. Today we are living, breathing and thinking creatures but that could completely change in an instant. But ghost stories tell us that, in some cases, we can live on, at least briefly, as ghosts of our former selves, mere shadows that terrify the living.
 
