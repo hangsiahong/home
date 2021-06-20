@@ -1,8 +1,8 @@
-title: My Resume
+title: My portfolio
 author: Hangsia
 email: honghangsia@koompi.org
 description: > # this means to ignore newlines until "baseurl:"
-  Hello World.
+        Hello fellow friend. I thank you for visiting my page. This site serve as my portfolio website.
 
 # social links
 twitter_username: hangsiahong # DO NOT include the @ character, or else the build will fail!
