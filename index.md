@@ -1,3 +1,3 @@
-# Welcome~,~
+# Introduction
 
-I'm glad you are here. I plan to talk about ...
+Hello and welcome to my homepage, this is where i wrote about my goal and daily routine and everything i learned throughout the day.
